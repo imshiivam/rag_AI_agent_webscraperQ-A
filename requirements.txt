@@ -1,0 +1,10 @@
+bs4
+beautifulsoup4
+typing-extensions
+ollama
+faiss-cpu
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
